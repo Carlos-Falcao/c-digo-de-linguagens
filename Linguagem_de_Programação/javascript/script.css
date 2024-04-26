@@ -1,7 +1,6 @@
 body {
     background-color: black;
-    background-image: url(./img/fundo-em-movimento.gif); 
-    /*Perguntar ao professor o pq não aparece o gif*/
+    background-image: url(../img/fundo-em-movimento.gif); 
     color: rgb(248, 242, 242);
     font: normal 15pt arial;
 }
@@ -20,10 +19,13 @@ h1 {
     border-radius: 5px;
     margin-left: 5px;
     height: 100%;
-    width: 900px;
+    width: 70%;
     padding-left: 5px;
 }
 .titulos {
     text-align: center;
     color: cyan;
+}
+.introducao-guanabara {
+    display: inline-block;
 }
