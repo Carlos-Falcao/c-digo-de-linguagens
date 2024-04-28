@@ -1,6 +1,16 @@
 body {
     background-color: black;
-    color: white;
+    background-image: url(../img/fundo-em-movimento.gif);
+    color: rgb(255, 255, 255);
+    font: normal 15pt arial;
+}
+h1 {
+    background-color: rgb(141, 25, 177);
+    border: 3px solid rgba(0, 255, 255, 0.8887);
+    border-radius: 13px;
+    margin: 0px 0px 23px;
+    text-align: center;
+    font-style: italic;
 }
 .bloco {
     background-color: rgba(57, 23, 207, 0.699);
@@ -9,6 +19,53 @@ body {
     border-radius: 5px;
     margin-left: 5px;
     height: 100%;
-    width: 70%;
+    width: 98%;
     padding-left: 5px;
+}
+.titulos {
+    text-align: center;
+    color: cyan;
+}
+.HTML {
+    height: 250px;
+    width: 250px;
+    margin-left: 40%;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 10px; 
+}
+.box-exemplo1 {
+    background-color: grey;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-right: 38%;
+}
+.box-exemplo2 {
+    background-color: grey;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-right: 13%;
+}
+.box-exemplo3 {
+    background-color: grey;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-right: 25%;
+}
+.box-exemplo4 {
+    background-color: grey;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-right: 60%;
+}
+.box-exemplo5 {
+    background-color: grey;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-right: 66%;
 }
