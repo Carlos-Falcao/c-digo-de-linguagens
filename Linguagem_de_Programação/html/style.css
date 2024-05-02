@@ -18,7 +18,7 @@ h3 {
     text-transform: uppercase;
 }
 .bloco {
-    background-color: rgba(57, 23, 207, 0.699);
+    background-color: rgba(57, 23, 207, 0.599);
     text-align: left;
     border: 3px solid rgba(0, 255, 255, 0.8887);
     border-radius: 5px;
@@ -41,6 +41,7 @@ h3 {
 }
 .box-exemplo1 {
     background-color: grey;
+    padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
     margin-left: 20%;
@@ -48,6 +49,7 @@ h3 {
 }
 .box-exemplo2 {
     background-color: grey;
+    padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
     margin-left: 20%;
@@ -55,6 +57,7 @@ h3 {
 }
 .box-exemplo3 {
     background-color: grey;
+    padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
     margin-left: 20%;
@@ -62,6 +65,7 @@ h3 {
 }
 .box-exemplo4 {
     background-color: grey;
+    padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
     margin-left: 20%;
@@ -69,6 +73,7 @@ h3 {
 }
 .box-exemplo5 {
     background-color: grey;
+    padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
     margin-left: 20%;
@@ -76,6 +81,7 @@ h3 {
 }
 .box-exemplo6 {
     background-color: grey;
+    padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
     margin-left: 20%;
@@ -83,9 +89,10 @@ h3 {
 }
 .box-exemplo7 {
     background-color: grey;
+    padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     margin-left: 20%;
-    margin-right: 56%;
+    margin-right: 54%;
 }
 .cursoemvideo-logo {
     height: 315px;

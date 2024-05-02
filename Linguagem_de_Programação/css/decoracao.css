@@ -4,3 +4,41 @@ body {
     color: rgb(255, 255, 255);
     font: normal 15pt arial;
 }
+h1 {
+    background-color: rgb(141, 25, 177);
+    border: 3px solid rgba(0, 255, 255, 0.8887);
+    border-radius: 13px;
+    margin: 0px 0px 23px;
+    text-align: center;
+    font-style: italic;
+}
+.bloco {
+    background-color: rgba(57, 23, 207, 0.599);
+    text-align: left;
+    border: 3px solid rgba(0, 255, 255, 0.8887);
+    border-radius: 5px;
+    margin-left: 5px;
+    height: 100%;
+    width: 98%;
+    padding-left: 5px;
+}
+.titulos {
+    text-align: center;
+    color: cyan;
+}
+.box-exemplo1 {
+    background-color: grey;
+    padding: 5px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-right: 38%;
+}
+.box-exemplo2 {
+    background-color: grey;
+    padding: 5px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-right: 38%;
+}
