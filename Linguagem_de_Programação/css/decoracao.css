@@ -42,3 +42,11 @@ h1 {
     margin-left: 20%;
     margin-right: 38%;
 }
+.box-exemplo3 {
+    background-color: grey;
+    padding: 5px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-right: 38%;
+}
