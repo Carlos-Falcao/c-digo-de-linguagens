@@ -12,6 +12,14 @@ h1 {
     text-align: center;
     font-style: italic;
 }
+.js {
+    height: 250px;
+    width: 320px;
+    margin-left: 37%;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 10px; 
+}
 .bloco {
     background-color: rgba(57, 23, 207, 0.599);
     text-align: left;
@@ -30,4 +38,8 @@ h1 {
     height: 315px;
     width: 620px;
     margin-left: 18%;
+}
+.vidio {
+    border: 2px solid red;
+    border-radius: 30px;
 }

@@ -44,23 +44,23 @@ h3 {
     padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
-    margin-left: 20%;
-    margin-right: 38%;
+    margin-left: 300px;
+    margin-right: 35%;
 }
 .box-exemplo2 {
     background-color: grey;
     padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
-    margin-left: 20%;
-    margin-right: 13%;
+    margin-left: 300px;
+    margin-right: 9%;
 }
 .box-exemplo3 {
     background-color: grey;
     padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
-    margin-left: 20%;
+    margin-left: 300px;
     margin-right: 25%;
 }
 .box-exemplo4 {
@@ -68,7 +68,7 @@ h3 {
     padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
-    margin-left: 20%;
+    margin-left: 300px;
     margin-right: 60%;
 }
 .box-exemplo5 {
@@ -76,7 +76,7 @@ h3 {
     padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
-    margin-left: 20%;
+    margin-left: 300px;
     margin-right: 66%;
 }
 .box-exemplo6 {
@@ -84,18 +84,22 @@ h3 {
     padding: 5px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 3px;
-    margin-left: 20%;
+    margin-left: 300px;
     margin-right: 28%;
 }
 .box-exemplo7 {
     background-color: grey;
     padding: 5px;
     border: 1px solid rgb(0, 0, 0);
-    margin-left: 20%;
-    margin-right: 54%;
+    margin-left: 300px;
+    margin-right: 42%;
 }
 .cursoemvideo-logo {
     height: 315px;
     width: 620px;
     margin-left: 18%;
+}
+.vidio {
+    border: 2px solid red;
+    border-radius: 30px;
 }
