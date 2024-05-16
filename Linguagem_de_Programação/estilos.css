@@ -4,8 +4,10 @@ body {
     font: normal 18pt arial;
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 .home {
+    width: 99%;
     color: black;
     background-color: rgb(255, 255, 255);
     background-image: url(./img/galax.gif);
@@ -24,7 +26,7 @@ body {
 }
 .home li {
     display: inline-block;
-    margin: 30px 80px;
+    margin: 2% 6%;
 }
 .home a {
     color: rgb(255, 0, 0);
@@ -45,51 +47,38 @@ body {
 .js {
     height: 270px;
     width: 330px;
-    margin: 50px 255px 10px;
+    margin: 4% 20% 1%;
     border: 3px solid black;
     border-radius: 30px;
-    padding: 5px;
+    padding: 1%;
     position: relative;
-    top: 1px;
-    left: 98px;
-    right: 10px;
-    bottom: 50px;
 }
 .HTML {
     height: 250px;
     width: 250px;
-    margin: 1px 250px 10px;
+    margin: 1% 20% 1%;
     border: 3px solid black;
     border-radius: 30px;
-    padding: 10px;
+    padding: 1%;
     position: relative;
-    top: 1px;
-    left: 100px;
-    right: 10px;
 }
 .estilo {
     height: 270px;
     width: 330px;
+    margin: 1% 20% 1%;
     border: 3px solid black;
     border-radius: 30px;
-    padding: 5px;
+    padding: 2%;
     position: relative;
-    top: 1px;
-    left: 348px;
-    right: 10px;
-    bottom: 50px;
 }
 .o-que-sao-linguagens {
     height: 270px;
     width: 330px;
+    margin: 1% 20% 1%;
     border: 3px solid black;
     border-radius: 30px;
-    padding: 5px;
+    padding: 2%;
     position: relative;
-    top: 1px;
-    left: 348px;
-    right: 10px;
-    bottom: 80px;
 }
 .vidio {
     border: 5px solid red;

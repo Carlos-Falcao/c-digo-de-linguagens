@@ -34,14 +34,18 @@ h3 {
 .vidio1 {
     border: 2px solid red;
     border-radius: 30px;
-    margin-left: 360px;
+    margin-left: 615px;
 }
 .logo-RafaelIvo {
-    height: 310px;
-    width: 600px;
-    margin-left: 18%;
+    height: 290px;
+    width: 560px;
+    border: 2px solid red;
+    border-radius: 4px;
+    margin-left: 17%;
 }
 .vidio-final {
+    height: 293px;
+    width: 580px;
     border: 2px solid red;
-    border-radius: 30px;
+    border-radius: 26px;
 }
