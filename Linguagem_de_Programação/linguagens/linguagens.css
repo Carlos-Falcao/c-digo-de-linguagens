@@ -3,6 +3,7 @@ body {
     background-image: url(../img/fundo-em-movimento.gif); 
     color: rgb(248, 242, 242);
     font: normal 15pt arial;
+    width: 100%;
 }
 h1 {
     background-color: rgb(141, 25, 177);
@@ -33,9 +34,10 @@ h3 {
     color: cyan;
 }
 .vidio1 {
+    width: 50%;
     border: 2px solid red;
     border-radius: 30px;
-    margin-left: 615px;
+    margin-left: 30%;
 }
 .logo-RafaelIvo {
     height: 20%;
@@ -45,7 +47,6 @@ h3 {
     margin-left: 17%;
 }
 .vidio-final {
-    height: 362px;
     width: 24%;
     border: 2px solid red;
     border-radius: 26px;
